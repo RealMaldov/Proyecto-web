@@ -1,7 +1,7 @@
 /*Estructura Básica del Programa, ya sabes los fondos y esas weas*/
 #gen{
-  height: 0;
-  padding-bottom: 56.25%; /* 16:9 */
+  height: 0%;
+  padding-bottom: 46%;
   position: relative;
   margin-left: -8px;
 }
@@ -12,7 +12,7 @@
   position: absolute;
   left: 290px;
   top: 10px;
-  width: 80%; height: 18%;
+  width: 75%; height: 18%;
 
 }
 #Principal{
@@ -39,14 +39,14 @@
   position: absolute;
   top: 20px;
   left: 290px;
-  width: 80%; height: 3%;
+  width: 75%; height: 3%;
 
 }
 .p4{
   position: absolute;
   top: 40px;
   left: 290px;
-  width: 80%; height: 5.1%;
+  width: 75%; height: 5.1%;
 
 }
 
@@ -57,21 +57,22 @@
   left: 0px;
   top: 165px;
   opacity: 0.85;
-  width: 100%; height: 55%;
+  width: 100%; height: 65%;
 
 }
 .P6{
   border-radius: 30px;
   position: absolute;
-  top: 185px;
+  top: 180px;
   left: 710px;
   width: 40%;
+  height: 60%;
   box-shadow: -3px 0px 10px black;
 }
 .P7{
   position: absolute;
   margin-left: 0px;
-  top: 250px;
+  top: 220px;
   left: 0px;
   width: 100%;
   opacity: .75;
@@ -81,7 +82,7 @@
   margin-left: 0px;
   left: 0px;
   width: 100%;
-  top: 590px;
+  top: 602px;
 }
 .ArtUno{
   position: absolute;
@@ -98,7 +99,7 @@
 /*Inicio*/
 .h1 {
   position: absolute;
-  top: 76px;
+  top: 65px;
   left: 285px;
   margin-bottom: 20px;
   font-family: 'Noto Sans KR', sans-serif;
@@ -118,7 +119,7 @@
 /*Liceo*/
 .h2 {
   position: absolute;
-  top: 76px;
+  top: 65px;
   left: 400px;
   margin-bottom: 20px;
   font-family: 'Noto Sans KR', sans-serif;
@@ -138,7 +139,7 @@
 /*Servicios*/
 .h3 {
   position: absolute;
-  top: 76px;
+  top: 65px;
   left: 515px;
   margin-bottom: 20px;
   font-family: 'Noto Sans KR', sans-serif;
@@ -157,7 +158,7 @@
 /*Contacto*/
 .h4 {
   position: absolute;
-  top: 95px;
+  top: 84px;
   left: 680px;
   margin-bottom: 0px;
   font-family: 'Noto Sans KR', sans-serif;
@@ -174,7 +175,7 @@
 /*Avisos*/
 .h5 {
   position: absolute;
-  top: 35px;
+  top: 24px;
   left: 850px;
   margin-bottom: 0px;
   font-family: 'Noto Sans KR', sans-serif;
